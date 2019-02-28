@@ -18,4 +18,9 @@ public class NumeralToRoman {
 			return romannb = "M";
 		return romannb;
 	}
+	
+	public String getRoman(int nombre) {
+		String nombreRomain = "";
+		return nombreRomain;
+	}
 }
